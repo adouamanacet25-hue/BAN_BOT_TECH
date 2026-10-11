@@ -1,0 +1,19 @@
+{
+  "name": "ban-bot-kira-tech",
+  "version": "1.0.0",
+  "description": "Bot Telegram de jumelage WhatsApp (pairing code) avec Baileys",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "express": "^4.21.2",
+    "pino": "^9.6.0",
+    "telegraf": "^4.16.3"
+  }
+}
