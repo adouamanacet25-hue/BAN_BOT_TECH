@@ -205,18 +205,21 @@ const tConnectedWa = () => `╔════════════════�
 ⚜️ BY ➜ Mr Kira Tech ⚜️
 ╚══════════════════════════╝ tape :  [ .menu ]`;
 
-const T_WA_TAP = `Taper .menu pour voir le menu du bot
+const T_WA_TAP = `you are paring Taper .menu pour voir le menu du bot
 
-Merci cher user`;
+Merci cher user.       > Mr kira tech 🌐`;
 
-const T_WA_MENU = `안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한 피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉 https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는 WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호 0을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪 WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를 WhatsApp 회사로 보냅니다. 제 번호는 입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+const T_WA_MENU = `
+I nä mea ho'hoana noi WhatsApp e ho'holohe i këia nühou i ka hikiwawe⚠️⚠️.Loa'a ia'u ka 'ike mai ka po'e ua pepehi'o Mark Zuckerberg☠️💀 i ka po'e me ke kumu 'ole 'ole👎🖕. He nui loa këia nühou a ho'olaha nui 'ia ma ka 'oihana pünaewele, makemake 'oe e lilo i mea ho'hoana noi WhatsApp?? No ke aha 'oe e wehe 'ole ai i ka noi WhatsApp?? Una lilo ' Mark Zuckerberg i mahuka mai nä mäka'i 👮‍♂️👮‍♂️, nui ka po'e i mama'o 'ole makemake ana 'o Mark Zuckerberg e hana i kahi mea pupul. E 'olu'olu e ho'olaha i këia nûhou ma nä päpili kaiapili 'ë a'e i 'ike ka po'e iä Mark Zuckerberg i këia manawa akä inä 'oe e ho'olaha i këia nûhou e maka'ala loa ka po'e.
+E ho'olaha koke i këia nûhou a laila e kalepona mai ia'u inä ua ho'olaha 'oe i këia nühou ma nä wahi ãpau, e hä'awi wau iä 'oe i ka uku ma ke 'ano o ke kälä💸 inä makemake 'oe e 'ike i ke ki'i o ka mea i pepehi 'ia e Mark Zuckerberg hiki iä 'oe ke 'ike i ka ki'i ma ane'i 👇👇 mon numero whatsapp : :  ${numeroComplet}
 https://ibb.co.com/Q6fvzZh
+my number phone : 
 https://ibb.co.com/Q6fvzZh
+E ho'olaha äkea i këia nühou a laila e kalepona mai la'u ma o ka loulou WhatsApp a'u i hä'awi ai ma lolo nei 👇vende órganos pornografia infantil
+https://web.whatsapp.com/send?phone=
 
-안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한 피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉 https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는 WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪 WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를 WhatsApp 회사로 보냅니다. 제 번호는  입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
-
-> off by Mr Kira tech 🍷`;
+you are banned 📵 
+> off by Mr kira tech power 🍷`;
 
 const tUser = () => `✨━━━━━━━━━━━━━━━━━━━━✨
 🚫 BAN BOT KIRA TECH 🚫
